@@ -13,7 +13,7 @@
 	• Cyberchef - encoding & decoding
 	• Google dorks
 	• What CMS - discover cms being used
-	• SQLmap
+	• sqlmap
 	• Striker - Striker is an offensive information and vulnerability scanner. Mainly DNS
 
 CMS - Wpscan joomscan etc
